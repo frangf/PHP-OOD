@@ -73,7 +73,7 @@ $exchange=0.89;
   if($exchange>0)
     $currency1->converEurosToPownds();
   else {
-    echo "Error";
+    echo "Error<br>";
   }
   /*$currency1->converEurosToPownds();*/
   $currency1->print();
