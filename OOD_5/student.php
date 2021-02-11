@@ -1,3 +1,4 @@
+
 <?php
 class Student extends Person
 {
@@ -19,4 +20,3 @@ echo "<b>StudyField:</b> $this->studyField.<br>";
 }
 }
 ?>
-

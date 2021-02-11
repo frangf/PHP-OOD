@@ -1,6 +1,6 @@
 <?php
-class Person
-{
+class Person{
+
 public $name;
 public $dni;
 

@@ -1,3 +1,4 @@
+
 <html>
 <head>
 <title>OOD_5: inheritance example</title>

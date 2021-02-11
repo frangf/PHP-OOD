@@ -20,6 +20,7 @@ public function __construct($name,$dni,$FCTBusinessName)
 public function print()
 {
 parent::print();
+echo "Muy bien<br>";
 echo "<b>FCTBusinessName:</b> $this->FCTBusinessName.<br>";
 }
 
